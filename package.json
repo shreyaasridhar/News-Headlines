@@ -1,0 +1,26 @@
+{
+  "name": "news-headlines",
+  "version": "1.0.0",
+  "description": "Creating an application for News headlines using Ajax, JSON, React, RWD and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyaasridhar/News-Headlines.git"
+  },
+  "author": "shreyaasridhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyaasridhar/News-Headlines/issues"
+  },
+  "homepage": "https://github.com/shreyaasridhar/News-Headlines#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
